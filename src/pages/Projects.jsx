@@ -6,13 +6,13 @@ const projects = [
     description: "A personal website to showcase my skills and projects.",
     tech: ["React", "Tailwind", "Framer Motion"],
     github: "https://github.com/mdkashifjamal21",
-    live: "https://yourportfolio.com",
+    live: "https://nimble-brigadeiros-d30206.netlify.app/",
   },
   {
     title: "To-Do App",
     description: "A simple and elegant task management app.",
     tech: ["React", "CSS", "LocalStorage"],
-    github: "https://github.com/yourusername/todo-app",
+    github: "https://github.com/mdkashifjamal21",
     live: "",
   },
   // ➕ Add more projects here
