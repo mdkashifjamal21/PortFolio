@@ -15,6 +15,20 @@ const projects = [
     github: "https://github.com/mdkashifjamal21",
     live: "",
   },
+   {
+    title: "To-Do App",
+    description: "A simple and elegant task management app.",
+    tech: ["React", "CSS", "LocalStorage"],
+    github: "https://github.com/mdkashifjamal21",
+    live: "",
+  },
+   {
+    title: "To-Do App",
+    description: "A simple and elegant task management app.",
+    tech: ["React", "CSS", "LocalStorage"],
+    github: "https://github.com/mdkashifjamal21",
+    live: "",
+  },
   // ➕ Add more projects here
 ];
 
