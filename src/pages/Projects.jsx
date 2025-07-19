@@ -20,7 +20,7 @@ const projects = [
     description: "A simple and elegant task management app.",
     tech: ["React", "CSS", "LocalStorage"],
     github: "https://github.com/mdkashifjamal21",
-    live: "",
+    live: "https://solidstyle.netlify.app/",
   },
    {
     title: "To-Do App",
