@@ -16,7 +16,7 @@ const projects = [
     live: "https://newlistodo.netlify.app/",
   },
    {
-    title: "To-Do App",
+    title: "SoliWeb",
     description: "A simple and elegant task management app.",
     tech: ["React", "CSS", "LocalStorage"],
     github: "https://github.com/mdkashifjamal21",
