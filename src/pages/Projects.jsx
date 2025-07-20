@@ -11,14 +11,14 @@ const projects = [
   {
     title: "To-Do App",
     description: "A simple and elegant task management app.",
-    tech: ["React", "CSS", "LocalStorage"],
+    tech: ["React", "CSS", "redux","mongoDb","postmanAPI"],
     github: "https://github.com/mdkashifjamal21",
     live: "https://newlistodo.netlify.app/",
   },
    {
     title: "SolidWeb",
     description: "A simple and elegant task management app.",
-    tech: ["React", "Tailwind", "LocalStorage"],
+    tech: ["React", "Tailwind"],
     github: "https://github.com/mdkashifjamal21",
     live: "https://solidstyle.netlify.app/",
   },
