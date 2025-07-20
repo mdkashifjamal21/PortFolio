@@ -18,16 +18,16 @@ const projects = [
    {
     title: "SolidWeb",
     description: "A simple and elegant task management app.",
-    tech: ["React", "CSS", "LocalStorage"],
+    tech: ["React", "Tailwind", "LocalStorage"],
     github: "https://github.com/mdkashifjamal21",
     live: "https://solidstyle.netlify.app/",
   },
    {
-    title: "To-Do App",
+    title: "Caffe Mastery",
     description: "A simple and elegant task management app.",
-    tech: ["React", "CSS", "LocalStorage"],
+    tech: ["HTML", "CSS","JAVASCRIPT","BOOTSTRAP"],
     github: "https://github.com/mdkashifjamal21",
-    live: "",
+    live: "https://cafferetina.netlify.app/",
   },
   // ➕ Add more projects here
 ];
