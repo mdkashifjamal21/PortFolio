@@ -17,14 +17,14 @@ const projects = [
   },
    {
     title: "SolidWeb",
-    description: "A simple and elegant task management app.",
+   description: "SolidWeb is a sleek, responsive Tailwind CSS SaaS template built for modern web and mobile apps. Ideal for startups and developers seeking a clean, professional UI.",
     tech: ["React", "Tailwind"],
     github: "https://github.com/mdkashifjamal21",
     live: "https://solidstyle.netlify.app/",
   },
    {
-    title: "Caffe Mastery",
-    description: "A simple and elegant task management app.",
+   title: "Caffe Mastery",
+    description: "Caffe Mastery is your go-to destination for refining your coffee experience. Whether you're a beginner or a connoisseur, we guide your journey with personalized services and a warm, inviting vibe.",
     tech: ["HTML", "CSS","JAVASCRIPT","BOOTSTRAP"],
     github: "https://github.com/mdkashifjamal21",
     live: "https://cafferetina.netlify.app/",

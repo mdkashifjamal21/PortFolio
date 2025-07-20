@@ -33,10 +33,13 @@ const About = () => {
   ))}
 </div>
 <p className="text-lg text-gray-300 leading-relaxed">
-  I'm a self-taught frontend developer passionate about crafting clean and modern web experiences. I specialize in building responsive interfaces using React and Tailwind CSS.
+  I'm Kashif, a self-taught frontend developer passionate about crafting clean and modern web experiences. I specialize in building responsive interfaces using React and Tailwind CSS.
 </p>
-<p className="text-lg text-gray-400">
-  Along the way, I've worked with Bootstrap, REST APIs, MongoDB, and explored Firebase for authentication and backend services. I code primarily in JavaScript and Python, and I enjoy learning by building real-world projects.
+<p className="text-lg text-gray-400 leading-relaxed mt-4">
+  Along the way, I've worked with Bootstrap, REST APIs, MongoDB, and explored Firebase for authentication and backend services. I primarily code in JavaScript and Python, and I love learning by building real-world projects.
+</p>
+<p className="text-lg text-gray-400 leading-relaxed mt-4">
+  I actively leverage the power of AI tools to boost my productivity, write cleaner code, and solve problems faster. This allows me to deliver high-quality work more efficiently while staying focused on what matters most—building meaningful user experiences.
 </p>
 
       </motion.div>
