@@ -1,5 +1,6 @@
 // Example: Home.jsx
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -16,9 +17,12 @@ const Home = () => {
         <p className="text-lg md:text-xl max-w-xl mx-auto text-gray-300">
          I'm a passionate frontend developer building modern, responsive websites using React and Tailwind CSS. I’ve also worked with Bootstrap, REST APIs, and MongoDB, and I’m familiar with Firebase. On the programming side, I’ve honed my skills in JavaScript and Python.</p>
         <div className="space-x-4">
+          <Link to="/contact">
           <button className="bg-teal-500 hover:bg-teal-600 text-white px-6 py-3 rounded-xl font-medium transition duration-300">
             Contact Me
           </button>
+          </Link>
+
           <button className="border border-teal-500 hover:bg-teal-500 hover:text-white text-teal-400 px-6 py-3 rounded-xl font-medium transition duration-300">
             Download CV
           </button>
