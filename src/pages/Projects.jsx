@@ -1,24 +1,31 @@
 import { motion } from "framer-motion";
 
 const projects = [
+ {
+    title: "Online Library Management System",
+    description: "A web application for managing a digital library, allowing users to browse, borrow, and return books online.",
+    tech: ["Reactjs", "Node.js", "MySQL Workbench","Tailwind CSS","REST API","Copilot AI tool"],
+    github: "https://github.com/mdkashifjamal21",
+    live: "https://onlinelibsystem.netlify.app/",
+  },
   {
     title: "Portfolio Website",
     description: "A personal website to showcase my skills and projects.",
-    tech: ["React", "Tailwind", "Framer Motion"],
+    tech: ["Reactjs", "Tailwind CSS","Copilot,ChatGpt,perplexity ai tool"],
     github: "https://github.com/mdkashifjamal21",
     live: "https://nimble-brigadeiros-d30206.netlify.app/",
   },
   {
     title: "To-Do App",
     description: "A simple and elegant task management app.",
-    tech: ["React", "CSS", "redux","mongoDb","postmanAPI"],
+    tech: ["Reactjs", "CSS", "Redux", "MongoDB", "REST API"],
     github: "https://github.com/mdkashifjamal21",
     live: "https://newlistodo.netlify.app/",
   },
    {
     title: "SolidWeb",
    description: "SolidWeb is a sleek, responsive Tailwind CSS SaaS template built for modern web and mobile apps. Ideal for startups and developers seeking a clean, professional UI.",
-    tech: ["React", "Tailwind"],
+    tech: ["Reactjs", "Tailwind CSS"],
     github: "https://github.com/mdkashifjamal21",
     live: "https://solidstyle.netlify.app/",
   },
